@@ -1,8 +1,8 @@
-Made a own pcb with Nano for a timer.
+Made a own pcb with Nano for a timer. (Now on 8 Min, can be changed in the .ino file
 
 The time can be adjust in the Ino file.
 
-When you push the Switch, it started to count down and after the time (8 min) it release the big relais, so power will stop.
+When you push the Switch, it started to count down and after the time (8 min or any time) it release the big relais, so power will stop.
 
 ![Photo 0]( https://github.com/RSZ-Nld/Timer-with-Arduino-Nano/blob/main/Pcb.JPG)
 
